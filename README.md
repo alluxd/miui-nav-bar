@@ -1,19 +1,19 @@
 # 🏓 Table Of Contents
-[Prerequisites](https://github.com/alluxd/miui-nav-bar/edit/main/README.md#prerequisites)
+[Prerequisites](https://github.com/alluxd/miui-nav-bar/blob/main/README.md#-prerequisites)
 
-[Installing Fluid Navigation Gestures](https://github.com/alluxd/miui-nav-bar/edit/main/README.md#11-fluid-navigation-gestures)
+[Installing Fluid Navigation Gestures](https://github.com/alluxd/miui-nav-bar/blob/main/README.md#11-fluid-navigation-gestures)
 
-[Installing LADB](https://github.com/alluxd/miui-nav-bar/edit/main/README.md#12-ladb)
+[Installing LADB](https://github.com/alluxd/miui-nav-bar/blob/main/README.md#12-ladb)
 
-[Removing the navigation buttons](https://github.com/alluxd/miui-nav-bar/edit/main/README.md#21-removing-the-buttons)
+[Removing the navigation buttons](https://github.com/alluxd/miui-nav-bar/blob/main/README.md#21-removing-the-buttons)
 
-[Removing the navigation buttons (Alternate Way)](https://github.com/alluxd/miui-nav-bar/edit/main/README.md#221-alternate-way)
+[Removing the navigation buttons (Alternate Way)](https://github.com/alluxd/miui-nav-bar/blob/main/README.md#221-alternate-way)
 
-[Tasker Setup](https://github.com/alluxd/miui-nav-bar/edit/main/README.md#223-tasker-setup)
+[Tasker Setup](https://github.com/alluxd/miui-nav-bar/blob/main/README.md#223-tasker-setup)
 
-[Issues (How to fix them)](https://github.com/alluxd/miui-nav-bar/edit/main/README.md#issues-and-how-to-fix)
+[Issues (How to fix them)](https://github.com/alluxd/miui-nav-bar/blob/main/README.md#issues-and-how-to-fix)
 
-[Credits](https://github.com/alluxd/miui-nav-bar/edit/main/README.md#credits)
+[Credits](https://github.com/alluxd/miui-nav-bar/blob/main/README.md#-credits)
 
 # 🚀 Prerequisites
 - 📱 **A phone with MIUI 12 or higher (You dont need to do this on versions <12)**
