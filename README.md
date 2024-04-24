@@ -1,3 +1,20 @@
+# 🏓 Table Of Contents
+[Prerequisites](https://github.com/alluxd/miui-nav-bar/edit/main/README.md#-prerequisites)
+
+[Installing Fluid Navigation Gestures](https://github.com/alluxd/miui-nav-bar/edit/main/README.md#11-fluid-navigation-gestures)
+
+[Installing LADB](https://github.com/alluxd/miui-nav-bar/edit/main/README.md#12-ladb)
+
+[Removing the navigation buttons](https://github.com/alluxd/miui-nav-bar/edit/main/README.md#21-removing-the-buttons)
+
+[Removing the navigation buttons (Alternate Way)](https://github.com/alluxd/miui-nav-bar/edit/main/README.md#221-alternate-way)
+
+[Tasker Setup](https://github.com/alluxd/miui-nav-bar/edit/main/README.md#223-tasker-setup)
+
+[Issues (How to fix them)](https://github.com/alluxd/miui-nav-bar/edit/main/README.md#issues-and-how-to-fix)
+
+[Credits](https://github.com/alluxd/miui-nav-bar/edit/main/README.md#credits)
+
 # 🚀 Prerequisites
 - 📱 **A phone with MIUI 12 or higher (You dont need to do this on versions <12)**
 - 📁 **USB Debugging**
@@ -9,7 +26,7 @@ Assuming you have set the default launcher already, let's start...
 # 🥇 First Steps
 ## 1. Installing Apps
 
-### 1.1 FNG
+### 1.1 Fluid Navigation Gestures
 Download an app called "Fluid Navigation Gestures" from the Google Play Store. 
 Open it and grant the permissions necessary. After that, open the Security app from your app drawer
 and then go to Boost Apps. Click on the gear icon on the top right and select **Locked Apps**, here enable FNG.
