@@ -1,5 +1,5 @@
 # 🏓 Table Of Contents
-[Prerequisites](https://github.com/alluxd/miui-nav-bar/edit/main/README.md#-prerequisites)
+[Prerequisites](https://github.com/alluxd/miui-nav-bar/edit/main/README.md#prerequisites)
 
 [Installing Fluid Navigation Gestures](https://github.com/alluxd/miui-nav-bar/edit/main/README.md#11-fluid-navigation-gestures)
 
